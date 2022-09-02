@@ -1,2 +1,4 @@
 # NYU_OS_nyuenc
-Code for my homework of the graduate level course 'Operating System' at NYU.
+Code for the assignment of 'Operating System'course at NYU.
+
+This is a parallel File Encoder based on RLE algorithm.
